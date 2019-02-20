@@ -1,0 +1,6 @@
+Projemde DevExpress kullandým bundan dolayý baþka bilgisayarlarda eðer kurulu deðilse formlarýn tasarýmý görünmeyebilir
+fakat DevExpress Setup klasorunden DevExpressi kurup proje halindeki tasarýmlarýnada bakýlabilir.
+Projenin veri tabanýný Sql Server'dan çýkararak buraya getirdim.
+Veri tabaný tablolarýna eriþim olamayacaðý için kullanýcý giriþ ekranýnda kalacaktýr. Kullanýcý giriþ ekranýný pasif býrakýrsak 
+formlarýn bazýlarýnýn loadýnda veri tabaný baðlantýsý olduðu için oralardada hata alýnabilir.
+

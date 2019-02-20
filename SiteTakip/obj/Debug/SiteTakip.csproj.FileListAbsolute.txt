@@ -1,0 +1,386 @@
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\SiteTakip.exe
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\SiteTakip.pdb
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.Data.v17.1.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.Utils.v17.1.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraBars.v17.1.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.Data.v17.1.xml
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.Utils.v17.1.xml
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraBars.v17.1.xml
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\obj\Debug\SiteTakip.csprojResolveAssemblyReference.cache
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\obj\Debug\SiteTakip.Form1.resources
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\obj\Debug\SiteTakip.Properties.Resources.resources
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\obj\Debug\SiteTakip.csproj.GenerateResource.Cache
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\obj\Debug\SiteTakip.exe.licenses
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\obj\Debug\SiteTakip.exe
+c:\users\kemal\documents\visual studio 2015\Projects\SiteTakip\SiteTakip\obj\Debug\SiteTakip.pdb
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\obj\Debug\SiteTakip.exe
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\obj\Debug\SiteTakip.pdb
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\SiteTakip.exe
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\SiteTakip.pdb
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\obj\Debug\SiteTakip.csprojResolveAssemblyReference.cache
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\obj\Debug\SiteTakip.Properties.Resources.resources
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\obj\Debug\SiteTakip.csproj.GenerateResource.Cache
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\obj\Debug\SiteTakip.exe.licenses
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\obj\Debug\SiteTakip.AnaForm.resources
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\obj\Debug\SiteTakip.SiteEkle.resources
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\obj\Debug\SiteTakip.ApartmanEkle.resources
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\obj\Debug\SiteTakip.MusteriEkle.resources
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\obj\Debug\SiteTakip.DaireSatKirala.resources
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\obj\Debug\SiteTakip.KullaniciGirisi.resources
+C:\Users\kemal\Desktop\SiteTakip\SiteTakip\obj\Debug\SiteTakip.KullaniciKayit.resources
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.exe
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.pdb
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\SiteTakip.exe
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\SiteTakip.pdb
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Data.v17.1.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Data.v17.1.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.csprojResolveAssemblyReference.cache
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.AnaForm.resources
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.ApartmanEkle.resources
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.DaireSatKirala.resources
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.KullaniciGirisi.resources
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.KullaniciKayit.resources
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.MusteriEkle.resources
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.Properties.Resources.resources
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.SiteEkle.resources
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.csproj.GenerateResource.Cache
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.exe.licenses
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.ParaIslemleri.resources
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.Listeler.resources
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.KasaBilgileri.resources
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.SatışBilgileri.resources
+D:\5-Ders\C#\Proje\SiteTakip\SiteTakip\obj\Debug\SiteTakip.GuncellemeEkranı.resources
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.exe
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.pdb
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\SiteTakip.exe
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\SiteTakip.pdb
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Data.v17.1.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Data.v17.1.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.csprojResolveAssemblyReference.cache
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.AnaForm.resources
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.ApartmanEkle.resources
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.DaireSatKirala.resources
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.GuncellemeEkranı.resources
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.KasaBilgileri.resources
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.KullaniciGirisi.resources
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.KullaniciKayit.resources
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.Listeler.resources
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.MusteriEkle.resources
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.ParaIslemleri.resources
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.Properties.Resources.resources
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.SatışBilgileri.resources
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.SiteEkle.resources
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.csproj.GenerateResource.Cache
+D:\5-Ders\C#\Proje\Kemal_Bayram_15542516\SiteTakip\obj\Debug\SiteTakip.exe.licenses
